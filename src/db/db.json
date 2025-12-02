@@ -1,0 +1,7 @@
+{
+"creatures": [
+{ "id": "1", "name": "Ignis", "species": "Dragón", "happiness": 30 },
+{ "id": "2", "name": "Burbujas", "species": "Kraken", "happiness": 85 },
+{ "id": "3", "name": "Chispas", "species": "Fénix", "happiness": 10 }
+]
+}
